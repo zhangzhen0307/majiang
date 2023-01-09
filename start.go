@@ -20,6 +20,7 @@ type Player struct {
 	River      []int
 }
 
+
 type RoomData struct {
 	RoomId   int
 	Owner    string
